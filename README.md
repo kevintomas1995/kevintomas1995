@@ -65,27 +65,10 @@ I'm currently working on [yesvegan.earth](https://yesvegan.earth). This project 
 # :handshake: Let's Connect 
 <a href="https://www.linkedin.com/in/kevin-tomas-a510561b8/"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/linkedin.png" width="50" height="50"/></a>&nbsp;
 <a href="https://www.xing.com/profile/Kevin_Tomas/cv"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/xing3.png" width="50" height="50"/></a>
+ <br />
+ <br />
 
 
-# 🎸 Current Top Tracks
 
-<table>
-  <thead>
-    <tr>
-      <th>📈 Top Tracks</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://status.nmoo.dev/top-tracks?i=1" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://status.nmoo.dev/top-tracks?i=2" width="540" height="64"></a></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://status.nmoo.dev/top-tracks?i=3" width="540" height="64"></a></td>
-    </tr>
-  </tbody>
-</table>
+
+
