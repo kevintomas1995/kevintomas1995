@@ -37,7 +37,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 - [Accessing a new window in Cypress tests](https://reflect.run/articles/accessing-a-new-window-in-cypress-tests/)
 - [Waiting until elements are interactable in Selenium](https://reflect.run/articles/waiting-until-elements-are-interactable-in-selenium/)
 
-<br /> <br />
+<br />
 <p align="left">
   <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/logrocket-new.jpeg" alt="Logrocket Logo" width="50" height="50">
 </p>
