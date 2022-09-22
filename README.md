@@ -5,7 +5,7 @@
 
 <h1>Welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a software developer based in Hamburg (Germany). Currently I'm doing my Masters Degree in E-Commerce at the University of Applied Sciences in Wedel. Besides I'm working as a software developer and technical blogger (check out my blog posts below 👇). I'm passionate for coding 👨‍💻, music 🎸 and football ⚽️. Feel free to check out my personal website website [kevin-tomas.com](https://kevin-tomas.com) for my blog and more.
+I'm a software developer based in Hamburg (Germany). Currently I'm doing my Masters Degree in E-Commerce at the University of Applied Sciences in Wedel. Besides I'm working as a software developer and technical blogger (check out my blog posts below 👇). I'm passionate for coding 👨‍💻, music 🎸 and football ⚽️. Feel free to check out my personal website website [kevin-tomas.com](https://kevin-tomas.com) for my blog posts and projects.
 <br />
 <br />
 
@@ -62,3 +62,6 @@ I'm currently working on [yesvegan.earth](https://yesvegan.earth). This project 
  <br />
 
 # :handshake: Let's Connect 
+<a href="https://www.linkedin.com/in/kevin-tomas-a510561b8/"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/linkedin.png" width="50" height="50"/></a>
+
+ &nbsp;
