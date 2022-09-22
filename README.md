@@ -30,7 +30,7 @@ I'm a software developer based in Hamburg (Germany). Currently I'm doing my Mast
 At this time I'm working as a technical author for [reflect.run](https://www.reflect.run) and [LogRocket.com](https://logrocket.com/).
 
 <p align="left">
-  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/reflect-new.png" alt="Reflect Logo">
+  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/reflect-new.png" alt="Reflect Logo" width="190" height="50">
 </p>
 
 - [Testing two-factor authentication with Cypress](https://reflect.run/articles/testing-two-factor-authentication-with-cypress/)
@@ -39,7 +39,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 
 <br />
 <p align="left">
-  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/logrocket-new.jpeg" alt="Logrocket Logo">
+  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/logrocket-new.jpeg" alt="Logrocket Logo" width="50" height="50">
 </p>
 
 - [Getting started with MUI and Next.js](https://blog.logrocket.com/getting-started-with-mui-and-next-js/)
