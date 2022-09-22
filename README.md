@@ -51,7 +51,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 # 👇 &nbsp;Current project
 
 <p align="left">
-  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/reflect-new.png" alt="Reflect Logo">
+  <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/yesvegan.png" alt="Yesvegan Logo">
 </p>
 
 I'm currently working on [yesvegan.earth](https://yesvegan.earth). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
