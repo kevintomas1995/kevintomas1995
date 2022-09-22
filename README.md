@@ -19,6 +19,7 @@ I'm a software developer based in Hamburg (Germany). Currently I'm doing my Mast
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/next.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/cypress.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/python.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/flask.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/selenium.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/scikit.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/pandas.png" width="50" height="50"/> &nbsp;
