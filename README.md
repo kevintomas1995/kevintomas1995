@@ -62,6 +62,5 @@ I'm currently working on [yesvegan.earth](https://yesvegan.earth). This project 
  <br />
 
 # :handshake: Let's Connect 
-<a href="https://www.linkedin.com/in/kevin-tomas-a510561b8/"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/linkedin.png" width="50" height="50"/></a>
-
- &nbsp;
+<a href="https://www.linkedin.com/in/kevin-tomas-a510561b8/"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/linkedin.png" width="50" height="50"/></a>&nbsp;
+<a href="https://www.xing.com/profile/Kevin_Tomas/cv"><img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/xing.png" width="50" height="50"/></a>
