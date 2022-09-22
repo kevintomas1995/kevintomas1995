@@ -56,3 +56,6 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 </p>
 
 I'm currently working on [yesvegan.earth](https://yesvegan.earth). This project is still in its starting holes. This website aims to share how to live a vegan life, especially referring to the vegan life in Hamburg. We'll be sharing content about restaurants, cafes, supermarktes and recipes. Feel free to check out the current state of the project at yesvegan.earth.
+ <br />
+
+# :handshake: Let's Connect 
