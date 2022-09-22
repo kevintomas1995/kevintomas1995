@@ -23,7 +23,7 @@ I'm a software developer based in Hamburg (Germany). Currently I'm doing my Mast
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/selenium.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/scikit.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/pandas.png" width="50" height="50"/> &nbsp;
-<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/tensorflow.png" width="50" height="50"/> &nbsp; <br />
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/tensorflow.png" width="50" height="50"/> &nbsp; <br /><br />
 
 # :memo: Blog
 
@@ -46,7 +46,8 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 - [React Native WebView: A complete guide](https://blog.logrocket.com/react-native-webview-a-complete-guide/)
 - [Create a React Native search bar from scratch](https://blog.logrocket.com/create-react-native-search-bar-from-scratch/)
 - [Creating React Native animated toast messages from scratch](https://blog.logrocket.com/creating-react-native-animated-toast-messages-from-scratch/)
-- [🎥🎥🎥 Video Tutorial on how to pass props in React 🎥🎥🎥](https://www.youtube.com/watch?v=0_6YYR3HRlw)
+- [🎥🎥🎥 Video Tutorial on how to pass props in React 🎥🎥🎥](https://www.youtube.com/watch?v=0_6YYR3HRlw) <br />
+ <br />
 
 # 👇 &nbsp;Current project
 
