@@ -1,4 +1,4 @@
-p align="center">
+<p align="center">
 <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/intro.gif" alt="Hi, I'm Kevin 👋 I'm a software developer from Hamburg 🚀 I ❤️ TypeScript + Python">
 
 </p>
@@ -7,7 +7,18 @@ p align="center">
 
 I'm a software developer based in Hamburg (Germany). Currently I'm doing my Masters Degree in E-Commerce at the University of Applied Sciences in Wedel. Besides I'm working as a software developer and technical blogger (check out my blog posts below 👇). I'm passionate for coding 👨‍💻, music 🎸 and football ⚽️. Feel free to check out my personal website website [kevin-tomas.com](https://kevin-tomas.com) for my blog and more.
 
-## :memo: Blog
+# 🧰 &nbsp;My toolbox
+
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/typescript.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/javascript.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/react.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/react-native.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/html.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/css.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/tailwind.png" width="50" height="50"/> &nbsp;
+<img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/cypress.png" width="50" height="50"/> &nbsp; <br />
+
+# :memo: Blog
 
 At this time I'm working as a technical author for [reflect.run](https://www.reflect.run) and [LogRocket.com](https://logrocket.com/).
 
@@ -30,7 +41,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
 - [Creating React Native animated toast messages from scratch](https://blog.logrocket.com/creating-react-native-animated-toast-messages-from-scratch/)
 - [🎥🎥🎥 Video Tutorial on how to pass props in React 🎥🎥🎥](https://www.youtube.com/watch?v=0_6YYR3HRlw)
 
-## 👇 &nbsp;Current project
+# 👇 &nbsp;Current project
 
 <p align="left">
   <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/reflect-new.png" alt="Reflect Logo">
