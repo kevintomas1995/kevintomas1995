@@ -6,6 +6,8 @@
 <h1>Welcome to my GitHub page <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a software developer based in Hamburg (Germany). Currently I'm doing my Masters Degree in E-Commerce at the University of Applied Sciences in Wedel. Besides I'm working as a software developer and technical blogger (check out my blog posts below 👇). I'm passionate for coding 👨‍💻, music 🎸 and football ⚽️. Feel free to check out my personal website website [kevin-tomas.com](https://kevin-tomas.com) for my blog and more.
+<br />
+<br />
 
 # 🧰 &nbsp;My toolbox
 
@@ -24,6 +26,7 @@ I'm a software developer based in Hamburg (Germany). Currently I'm doing my Mast
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/scikit.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/pandas.png" width="50" height="50"/> &nbsp;
 <img  src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/tensorflow.png" width="50" height="50"/> &nbsp; <br /><br />
+<br />
 
 # :memo: Blog
 
