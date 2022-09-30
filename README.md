@@ -36,6 +36,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
   <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/reflect-new.png" alt="Reflect Logo" width="190" height="50">
 </p>
 
+- [Testing mobile web apps in Cypress](https://reflect.run/articles/testing-mobile-web-apps-in-cypress/)
 - [Testing two-factor authentication with Cypress](https://reflect.run/articles/testing-two-factor-authentication-with-cypress/)
 - [Accessing a new window in Cypress tests](https://reflect.run/articles/accessing-a-new-window-in-cypress-tests/)
 - [Waiting until elements are interactable in Selenium](https://reflect.run/articles/waiting-until-elements-are-interactable-in-selenium/)
