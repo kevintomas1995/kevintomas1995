@@ -46,6 +46,7 @@ At this time I'm working as a technical author for [reflect.run](https://www.ref
   <img src="https://github.com/kevintomas1995/kevintomas1995/blob/main/assests/logrocket-new.jpeg" alt="Logrocket Logo" width="50" height="50">
 </p>
 
+- [Build a selfie camera timer: React Native stopwatch example](https://blog.logrocket.com/build-selfie-camera-timer-react-native-stopwatch-example/)
 - [Getting started with MUI and Next.js](https://blog.logrocket.com/getting-started-with-mui-and-next-js/)
 - [React Native WebView: A complete guide](https://blog.logrocket.com/react-native-webview-a-complete-guide/)
 - [Create a React Native search bar from scratch](https://blog.logrocket.com/create-react-native-search-bar-from-scratch/)
